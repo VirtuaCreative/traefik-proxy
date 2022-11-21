@@ -1,6 +1,6 @@
 ---
 title: "Traefik Getting Started With Kubernetes"
-description: "Looking to get started with Traefik Proxy? Call the wizard to make it quick!"
+description: "Quickly get started with Traefik Proxy on Kubernetes."
 ---
 
 # Quick Start
